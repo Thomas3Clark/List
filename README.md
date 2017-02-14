@@ -1,4 +1,4 @@
-CageQuotesPebble
+SaintTreeQuotesPebble
 ================
 
-Repo for my Pebble watch app "Cage Quotes", made at Northwestern University's WildHacks
+Watchapp that displays quotes from Saint Tree.
