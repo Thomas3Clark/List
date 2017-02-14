@@ -1,10 +1,3 @@
-/*
-  NicCageQuotes
-  An amalgamation of the example image watchapp and the guide to show text in a watchapp.
-  Displays a picture of Nicolas Cage.
-  Prints a movie quote said by one of his characters each time a button is pressed.
-  Praised be the one true god, Nicolas Cage.
-*/
 
 #include <pebble.h>
 #include <stdlib.h>
@@ -20,7 +13,7 @@ static TextLayer *s_output_layer;
 
 static GBitmap *image;
 
-// stuff here is for what is effectively a string array of cage quotes
+// stuff here is for what is effectively a string array of quotes
 char quote0[] = "Oh yeah, you're right.";
 char quote1[] = "Down the road.";
 char quote2[] = "Holy macaroni...";
