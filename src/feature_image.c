@@ -21,16 +21,16 @@ static TextLayer *s_output_layer;
 static GBitmap *image;
 
 // stuff here is for what is effectively a string array of cage quotes
-char quote0[] = "OH, NO! NOT THE BEES! NOT THE BEES!";
-char quote1[] = "How, in the name of Zeus’s butthole, did you get out of your cell?";
-char quote2[] = "Tool up, honey bunny. It’s time to get bad guys.";
-char quote3[] = "Put… the bunny… back… in the box.";
-char quote4[] = "What’s in the bag? A shark or something?";
-char quote5[] = "You don’t have a lucky crack pipe?";
-char quote6[] = "Why couldn’t you just put the Bunny back in the box?";
-char quote7[] = "I want to take his face… off. Eyes. Nose. Skin. Teeth. It’s coming off.";
-char quote8[] = "Every great story seems to begin with a snake.";
-char quote9[] = "Have you ever been dragged along the sidewalk and beaten until you PISSED BLOOD?";
+char quote0[] = "Oh yeah, you're right.";
+char quote1[] = "Down the road.";
+char quote2[] = "Holy macaroni...";
+char quote3[] = "Oh gee, I'm sorry";
+char quote4[] = "I don't even know.";
+char quote5[] = "Stop bending time and space for your own sick desires.";
+char quote6[] = "You will die alone, having never been loved.";
+char quote7[] = "Throw me in the river and end my misery.";
+char quote8[] = "Stop your ways, evildoers.";
+char quote9[] = "Eskimo Lives Matter";
 char *quotes[10] = {quote0, quote1, quote2, quote3, quote4, quote5, quote6, quote7, quote8, quote9};
 
 static void up_click_handler(ClickRecognizerRef recognizer, void *context) {
