@@ -3,26 +3,26 @@
     "capabilities": [
         ""
     ],
-    "companyName": "isaac.lepow34@gmail.com",
-    "longName": "Nic Cage Quotes",
+    "companyName": "magicianguy3@gmail.com",
+    "longName": "Saint Tree Quotes",
     "projectType": "native",
     "resources": {
         "media": [
             {
-                "file": "images/niccagethumb.png",
+                "file": "images/miserable_.png",
                 "menuIcon": true,
-                "name": "IMAGE_CAGE_THUMB",
+                "name": "IMAGE_THUMB",
                 "type": "png"
             },
             {
-                "file": "images/nicolas-cage-will-be-in-the-expendables-3.png",
-                "name": "IMAGE_NIC_CAGE",
+                "file": "images/miserable_.png",
+                "name": "IMAGE_",
                 "type": "png"
             }
         ]
     },
     "sdkVersion": "2",
-    "shortName": "Cage Quotes",
+    "shortName": "Saint Tree Quotes",
     "uuid": "60164ee6-7b61-473a-b661-c29065b0cd3c",
     "versionCode": 1,
     "versionLabel": "1.0",
