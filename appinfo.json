@@ -14,11 +14,6 @@
                 "name": "IMAGE_THUMB",
                 "type": "png"
             },
-            {
-                "file": "images/miserable_.png",
-                "name": "IMAGE_",
-                "type": "png"
-            }
         ]
     },
     "sdkVersion": "2",
